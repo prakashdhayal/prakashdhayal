@@ -72,7 +72,6 @@
 
 <h2><i>My top projects</i></h2>
 
-
 <p align="left">
     <a href="https://github.com/parmaprakash/iNotebook" target="_blank">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=iNotebook&color=1BB91F&logo=notion&logoColor=FFFFFF&label=" alt="iNotebook" />
@@ -85,6 +84,7 @@
     </a>
 </p>
 
+
 <br>
 
 
@@ -95,13 +95,13 @@
 
 
 <p align="left">
-    <a href="https://linkedin.com/in/prakash-dhayal/">
+    <a href="https://linkedin.com/in/prakash-dhayal/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/prakash-dhayal" />
     </a>
-    <a href="https://instagram.com/_prakashdhayal_23">
+    <a href="https://instagram.com/_prakashdhayal_23" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://instagram.com/_prakashdhayal_23" />
     </a>
-    <a title="prakashjdh2019@gmail.com" href="mailto:prakashjdh2019@gmail.com">
+    <a title="prakashjdh2019@gmail.com" href="mailto:prakashjdh2019@gmail.com" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="prakashjdh2019@gmail.com" />
     </a>
 </p>
@@ -135,6 +135,9 @@
     </a>
     <a href="https://github.com/parmaprakash/Sorting-Visualizer">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parmaprakash&repo=Sorting-Visualizer&locale=en&border_radius=0&theme=dark" alt="parmaprakash" />
+    </a>
+    <a href="https://github.com/parmaprakash/React-Quiz-Application">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parmaprakash&repo=React-Quiz-Application&locale=en&border_radius=0&theme=dark" alt="parmaprakash" />
     </a>
     
 </p>
