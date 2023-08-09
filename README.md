@@ -24,7 +24,7 @@
 
 <p align="left">
     <a href="https://github.com/parmaprakash">
-        <img src="https://komarev.com/ghpvc/?username=parmaprakash&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
+        <img src="https://komarev.com/ghpvc/?username=parmaprakash&label=Profile%20views&color=0e75b6&style=flat" alt="parmaprakash" />
     </a>
     <a href="https://github.com/parmaprakash?tab=followers">
         <img src="https://img.shields.io/github/followers/parmaprakash?label=Followers&style=social" alt="followers-count">
@@ -73,13 +73,13 @@
 <h2><i>My top projects</i></h2>
 
 <p align="left">
-    <a href="https://github.com/parmaprakash/iNotebook" target="_blank">
+    <a href="https://github.com/parmaprakash/iNotebook">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=iNotebook&color=1BB91F&logo=notion&logoColor=FFFFFF&label=" alt="iNotebook" />
     </a>
-    <a href="https://github.com/parmaprakash/NewsMonkey" target="_blank">
+    <a href="https://github.com/parmaprakash/NewsMonkey">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NewsMonkey&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="NewsMonkey" />
     </a>
-    <a href="https://github.com/parmaprakash/Sorting-Visualizer" target="_blank">
+    <a href="https://github.com/parmaprakash/Sorting-Visualizer">
         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sorting-Visualizer&color=2ECC71&logo=visual-studio-code&logoColor=FFFFFF&label=" alt="Sorting-Visualizer" />
     </a>
 </p>
@@ -95,13 +95,13 @@
 
 
 <p align="left">
-    <a href="https://linkedin.com/in/prakash-dhayal/" target="_blank">
+    <a href="https://linkedin.com/in/prakash-dhayal/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/prakash-dhayal" />
     </a>
-    <a href="https://instagram.com/_prakashdhayal_23" target="_blank">
+    <a href="https://instagram.com/_prakashdhayal_23">
         <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://instagram.com/_prakashdhayal_23" />
     </a>
-    <a title="prakashjdh2019@gmail.com" href="mailto:prakashjdh2019@gmail.com" target="_blank">
+    <a title="prakashjdh2019@gmail.com" href="mailto:prakashjdh2019@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="prakashjdh2019@gmail.com" />
     </a>
 </p>
@@ -118,6 +118,13 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parmaprakash&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="parmaprakash" height="139" />
 </p>
 <br>
+
+### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
+<p align="center">
+  <a href="https://github.com/parmaprakash/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=parmaprakash&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+</p>
 
 
 
