@@ -74,13 +74,17 @@
 
 
 <p align="left">
-    <a href="project-github-link" target="blank">
-         <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mini Store&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="Mini-Store" />
+    <a href="https://github.com/parmaprakash/iNotebook" target="_blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=iNotebook&color=1BB91F&logo=notion&logoColor=FFFFFF&label=" alt="iNotebook" />
     </a>
-    <a href="project-github-link" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
+    <a href="https://github.com/parmaprakash/NewsMonkey" target="_blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NewsMonkey&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="NewsMonkey" />
+    </a>
+    <a href="https://github.com/parmaprakash/Sorting-Visualizer" target="_blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Sorting-Visualizer&color=2ECC71&logo=visual-studio-code&logoColor=FFFFFF&label=" alt="Sorting-Visualizer" />
     </a>
 </p>
+
 <br>
 
 
@@ -123,11 +127,14 @@
 
 
 <p>
-    <a href="project-github-link">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parmaprakash&repo=Repo-Name&locale=en&border_radius=0&theme=dark" alt="parmaprakash" />
+    <a href="https://github.com/parmaprakash/iNotebook">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parmaprakash&repo=iNotebook&locale=en&border_radius=0&theme=dark" alt="parmaprakash" />
     </a>
-    <a href="project-github-link">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parmaprakash&repo=Repo-Name&locale=en&border_radius=0&theme=dark" alt="parmaprakash" />
+    <a href="https://github.com/parmaprakash/NewsMonkey">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parmaprakash&repo=NewsMonkey&locale=en&border_radius=0&theme=dark" alt="parmaprakash" />
+    </a>
+    <a href="https://github.com/parmaprakash/Sorting-Visualizer">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parmaprakash&repo=Sorting-Visualizer&locale=en&border_radius=0&theme=dark" alt="parmaprakash" />
     </a>
     
 </p>
