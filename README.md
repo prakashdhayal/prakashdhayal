@@ -119,15 +119,15 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashkdhayal&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="prakashkdhayal" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashkdhayal&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="prakashkdhayal" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashdhayal&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="prakashdhayal" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashdhayal&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="prakashdhayal" height="139" />
 </p>
 <br>
 
 ### <h2 align="center">🔥 My Contribution Streak 🔥<h2/>
 <p align="center">
-  <a href="https://github.com/prakashkdhayal/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashkdhayal&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
+  <a href="https://github.com/prakashdhayal/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashdhayal&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
 </p>
 
@@ -139,17 +139,17 @@
 
 
 <p>
-    <a href="https://github.com/prakashkdhayal/iNotebook">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parmaprakash&repo=iNotebook&locale=en&border_radius=0&theme=dark" alt="parmaprakash" />
+    <a href="https://github.com/prakashdhayal/iNotebook">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prakashdhayal&repo=iNotebook&locale=en&border_radius=0&theme=dark" alt="prakashdhayal" />
     </a>
-    <a href="https://github.com/prakashkdhayal/NewsMonkey">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parmaprakash&repo=NewsMonkey&locale=en&border_radius=0&theme=dark" alt="parmaprakash" />
+    <a href="https://github.com/prakashdhayal/NewsMonkey">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prakashdhayal&repo=NewsMonkey&locale=en&border_radius=0&theme=dark" alt="prakashdhayal" />
     </a>
-    <a href="https://github.com/prakashkdhayal/Sorting-Visualizer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parmaprakash&repo=Sorting-Visualizer&locale=en&border_radius=0&theme=dark" alt="parmaprakash" />
+    <a href="https://github.com/prakashdhayal/Sorting-Visualizer">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prakashdhayal&repo=Sorting-Visualizer&locale=en&border_radius=0&theme=dark" alt="prakashdhayal" />
     </a>
-    <a href="https://github.com/prakashkdhayal/React-Quiz-Application">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parmaprakash&repo=React-Quiz-Application&locale=en&border_radius=0&theme=dark" alt="parmaprakash" />
+    <a href="https://github.com/prakashdhayal/React-Quiz-Application">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prakashdhayal&repo=React-Quiz-Application&locale=en&border_radius=0&theme=dark" alt="prakashdhayal" />
     </a>
     
 </p>
